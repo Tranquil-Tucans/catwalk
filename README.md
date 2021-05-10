@@ -64,5 +64,5 @@ The related items & Outfits module is composed of two carousels displaying relat
 
 **Authors**<br/>
 Mikey Perez - Related Items and Outfit <br/>
-Michael Moriarty<br/>
+Michael Moriarty - Product Overview <br/>
 Nancy Yang - Ratings and Reviews Module<br/>
